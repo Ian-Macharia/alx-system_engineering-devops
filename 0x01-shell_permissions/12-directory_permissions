@@ -1,2 +1,2 @@
 #!/bin/bash
-install -d -m 751 mydir
+mkdir –m 751 my_dir
